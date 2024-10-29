@@ -13,7 +13,7 @@ This project is a weather-checking web application that retrieves current weathe
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/weather-api-app.git
+   git clone https://github.com/Devmfsouza/weather-api-app
    cd weather-api-app
 
 2. **Install dependencies with Composer: Ensure you have Composer installed, then run:**:
