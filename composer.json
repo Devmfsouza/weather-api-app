@@ -1,0 +1,17 @@
+{
+    "name": "ms/weather",
+    "autoload": {
+        "psr-4": {
+            "Ms\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Souza",
+            "email": "matheus.souzaviveiros@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
